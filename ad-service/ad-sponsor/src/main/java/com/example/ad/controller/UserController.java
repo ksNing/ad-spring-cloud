@@ -1,0 +1,27 @@
+package com.example.ad.controller;
+
+import com.alibaba.fastjson.JSON;
+import com.example.ad.service.UserService;
+import com.example.ad.vo.CreateUserRequest;
+import com.example.ad.vo.CreateUserResponse;
+import com.example.ad.vo.exception.AdException;
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+@Slf4j
+@RestController
+public class UserController {
+    @Autowired
+    private UserService userService;
+
+    @PostMapping("/create/user")
+    public CreateUserResponse createUser(
+            @RequestBody CreateUserRequest request) throws AdException {
+        log.info("ad-sponsor: createUser -> {}",
+                JSON.toJSONString(request));
+        return userService.createUser(request);
+    }
+}
