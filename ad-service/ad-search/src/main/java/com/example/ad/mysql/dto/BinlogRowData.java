@@ -7,6 +7,9 @@ import java.util.List;
 import java.util.Map;
 
 @Data
+/**
+ * 数据库层面的实体类
+ */
 public class BinlogRowData {
     private TableTemplate table;
     private EventType eventType;

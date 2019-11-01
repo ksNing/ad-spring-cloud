@@ -12,6 +12,9 @@ import java.util.Map;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+/**
+ * 索引层面的实体类
+ */
 public class MySqlRowData {
     private String tableName;
     private String level;

@@ -136,6 +136,5 @@ public class AggregationListener implements BinaryLogClient.EventListener {
             this.dbName = "";
             this.tableName = "";
         }
-
     }
 }
