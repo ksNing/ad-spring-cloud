@@ -129,7 +129,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/example/ad/mysql/listener/IncrementListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23">
+            <state relative-caret-position="137">
               <caret line="62" column="52" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
             </state>
           </provider>
@@ -245,8 +245,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
+    <option name="y" value="61" />
     <option name="width" value="1221" />
     <option name="height" value="724" />
   </component>
@@ -508,7 +507,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572605162986" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572605642091" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -645,7 +644,7 @@
       <workItem from="1571318294763" duration="783000" />
       <workItem from="1571445713154" duration="25703000" />
       <workItem from="1571824214382" duration="74088000" />
-      <workItem from="1572347810122" duration="30550000" />
+      <workItem from="1572347810122" duration="30798000" />
     </task>
     <servers />
   </component>
@@ -682,10 +681,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131124000" />
+    <option name="totallyTimeSpent" value="131372000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1221" height="724" extended-state="0" />
+    <frame x="20" y="26" width="1221" height="724" extended-state="0" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22731128" />
@@ -706,7 +705,7 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.82753164" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.51265824" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Bean Validation" order="0" />
@@ -1341,7 +1340,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ad-service/ad-search/src/main/java/com/example/ad/mysql/listener/IncrementListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
+        <state relative-caret-position="137">
           <caret line="62" column="52" lean-forward="true" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
         </state>
       </provider>
